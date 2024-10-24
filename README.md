@@ -1,7 +1,3 @@
-Here's the updated README with the title changed to **Aurora-NFT-Trade**:
-
----
-
 # Aurora-NFT-Trade
 
 Welcome to **Aurora-NFT-Trade**, an NFT marketplace built on the **Euclid "Aurora" Testnet**. Our platform is designed to revolutionize the way users mint, trade, and interact with NFTs, providing a seamless, liquid experience that integrates with DeFi applications. By leveraging the Euclid blockchain, we aim to create a sustainable and flexible ecosystem that empowers users to fully engage with their digital assets without the limitations of locked assets.
